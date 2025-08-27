@@ -7,7 +7,7 @@ Yapılan anketteki şıkların hangi yapay zekalar tarafından oluşturulduğu h
 
 2. soruda 1. şık ChatGPT-5, 2. şık Grok, 3. Gemini şık  ile oluşturulmuştur.
 
-3. soruda 1. şık Grok, 2. şık ChatGPT-5 , 3. Gemini şık  ile oluşturulmuştur.
+3. soruda 1. şık Grok, 2. şık ChatGPT-5 , 3. şık Gemini  ile oluşturulmuştur.
 
 
 İlginiz için teşekkür ederim.
